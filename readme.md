@@ -10,3 +10,5 @@ org.jbpm.task.assignment.enabled=true
 
 org.jbpm.task.assignment.strategy=BusinessRule
 
+[Refer](https://www.youtube.com/watch?v=e8_d0Ki5maY) for more information.
+
